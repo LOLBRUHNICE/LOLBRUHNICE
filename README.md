@@ -14,25 +14,32 @@
 
 + Frontend
 
-> - Next.js
-
-> - React
+> - Nextjs
+> - Reactjs
+> - Remixjs
 
 + Backend
 
 > - Nestjs
-
-> - Express.js
+> - Expressjs
 
 + Database
 
 > - MongoDB
-
 > - MySQL
 
 + Framework
 
-> - Discord.js  
+> - Discordjs 
+
++ Languages
+
+> - Typescript
+> - HTML
+> - CSS
+> - Javascript
+> - Java
+> - Python
 
 ## My future Ambition:
 - keep learning on developing a **full stack app**
