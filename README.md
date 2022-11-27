@@ -1,14 +1,11 @@
+<img width="50%" align="right" src="https://github-readme-stats-eight-xi-18.vercel.app/api?username=LOLBRUHNICE&theme=onedark&show_icons=true" />
+<img width="50%" align="right" src="https://github-readme-stats-gbxh8fg6c-lolbruhnice.vercel.app/api/top-langs?username=LOLBRUHNICE&langs_count=8&hide=shell&theme=onedark&show_icons=true" />
+
 # About Me
 
 * I am a secondary school student in Hong Kong
 * I like to develop full stack application or some node.js app
 * Currently developing my own discord bot hobby project that planned to serve globally
-
-# Stats
-[![GitHub stats](https://github-readme-stats-eight-xi-18.vercel.app/api?username=LOLBRUHNICE&theme=onedark)](https://github.com/LOLBRUHNICE)  
-
-# Top Language
-[![Top Langs](https://github-readme-stats-gbxh8fg6c-lolbruhnice.vercel.app/api/top-langs?username=LOLBRUHNICE&langs_count=8&hide=shell&theme=onedark)](https://github.com/LOLBRUHNICE)
 
 # Tech I Use(or used before)
 
