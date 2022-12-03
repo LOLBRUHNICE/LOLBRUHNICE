@@ -9,7 +9,7 @@
 
 | Languages |
 |:-------------|
-|  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![JSX](https://img.shields.io/badge/-JSX-black?style=flat&logo=react) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)   |
+|  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript) <br> ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![JSX](https://img.shields.io/badge/-JSX-black?style=flat&logo=react) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)   |
 
 | Frontend / Backend |
 |:--------------|
