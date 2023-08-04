@@ -5,7 +5,6 @@
 
 * I am a secondary school student in Hong Kong
 * I like to develop full stack application or some node.js app
-* Currently developing my own discord bot hobby project that planned to serve globally
 
 | Languages |
 |:-------------|
@@ -22,5 +21,4 @@
 ## My future Ambition:
 - keep learning on developing a **full stack app**
 - learn other **languages**
-- create an awesome discord bot to serve globally
 - stay *enthusiastic* on programming
